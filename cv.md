@@ -58,6 +58,8 @@ function spinWords(string $str): string {
 * «Основы HTML и CSS from [netology](https://netology.ru)» (completed)
 * «RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
 
+* «RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
 ***
 
 ### Languages
